@@ -9,7 +9,11 @@ This is a SwiftUI-based iOS app that provides users with the latest news article
 - Integration with SDWebImageSwiftUI for efficient image loading.
 - Responsive UI designed using SwiftUI.
 - Seamless navigation using SwiftUI's NavigationView and NavigationLink.
-
+- 
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-03 at 17 36 10](https://github.com/VedantArora18/NewsApp/assets/93697157/35a07b45-1cae-4772-ac33-42d7a25474b6)
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-03 at 17 36 21](https://github.com/VedantArora18/NewsApp/assets/93697157/cfbfb61f-53fb-4c1c-801b-24a506d4dbb1)
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-03 at 17 36 35](https://github.com/VedantArora18/NewsApp/assets/93697157/583e0d9c-5e63-4ee5-a703-2c17dedc97c0)
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-03 at 17 36 46](https://github.com/VedantArora18/NewsApp/assets/93697157/2a9ba24d-7764-4c87-b56c-c0bdf0adb441)
 
 
 ## Technologies Used
