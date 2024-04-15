@@ -157,7 +157,7 @@ struct TrendingArticleView: View {
                 .frame(width: 240, height: 120)
                 .cornerRadius(8)
 
-            Text(article.title)
+            Text(article.title.split(separator: " ").prefix(6).joined(separator: " "))
                 .font(.caption)
                 .lineLimit(1)
                 .padding(.top, 4)
